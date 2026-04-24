@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mouse",
+      "price": 150.25
+    },
+    {
+      "id": "2",
+      "name": "Teclado",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Monitor",
+      "price": 500
+    },
+    {
+      "id": "h9OEC5jWjqU",
+      "name": "Mouse Pad",
+      "price": 80
+    },
+    {
+      "id": "QM1_yI2X63w",
+      "name": "Mesa",
+      "price": 200
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
